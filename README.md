@@ -20,7 +20,7 @@ Además, a partir de esta misma referencia se realizó un examen parcial para el
 
 Este repositorio aporta el desarrollo de software y la simulación computacional:
 
-**Modelado en Simulink:** Implementación del circuito de potencia con un switch que permite alternar entre el modo manual (donde el usuario es capaz de colocar el ángulo con el que quiere controlar el convertidor), y el modo PI (el cual me da una respuesta estabilizada en un punto.
+**Modelado en Simulink:** Implementación del circuito de potencia con un switch que permite alternar entre el modo manual (donde el usuario es capaz de colocar el ángulo con el que quiere controlar el convertidor), y el modo PI (el cual me da una respuesta estabilizada en un punto).
 
 **Aplicativo en App Designer**: Aplicación diseñada desde cero en App Designer para permitir la modificación de variables, el monitoreo del seguimiento del punto de máxima potencia (MPPT) y la visualización del estado estacionario en tiempo real.
 
