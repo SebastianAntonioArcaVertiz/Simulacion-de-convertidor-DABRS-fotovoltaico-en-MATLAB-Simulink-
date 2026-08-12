@@ -44,11 +44,7 @@ Este repositorio aporta el desarrollo de software y la simulación computacional
 
 2\. Se abre el archivo app.mlapp
 
-3\. En la aplicación, se establece la frecuencia de conmutación (según el paper es 50000 hz), esto es para diferenciar entre
-
-ZVS y ZCS, cabe aclarar, que según los componentes, la frecuencia de resonancia siempre sera 45.45 khz. Si queremos ZVS,
-
-la frecuencia de conmutación será mayor a este valor, y si queremos ZCS, será menor.
+3\. En la aplicación, se establece la frecuencia de conmutación (según el paper es 50000 hz), esto es para diferenciar entre ZVS y ZCS, cabe aclarar, que según los componentes, la frecuencia de resonancia siempre sera 45.45 khz. Si queremos ZVS, la frecuencia de conmutación será mayor a este valor, y si queremos ZCS, será menor.
 
 4\. Se puede activar o desactivar el PI.
 
