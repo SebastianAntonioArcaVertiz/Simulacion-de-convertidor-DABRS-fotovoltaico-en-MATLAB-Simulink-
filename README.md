@@ -26,7 +26,7 @@ Este repositorio aporta el desarrollo de software y la simulación computacional
 
 
 
-Para ejecutar este proyecto, es necesario contar con:
+**Para ejecutar este proyecto, es necesario contar con:**
 
 \* MATLAB (Versión R2024b o superior).
 
@@ -37,6 +37,8 @@ Para ejecutar este proyecto, es necesario contar con:
 \*Control System Toolbox
 
 \*Simulink Control Design
+
+**Se tienen que seguir los siguientes pasos:**
 
 1\. Se tiene que abrir el archivo PARCIAL\_POTENCIAII.slx
 
